@@ -1,0 +1,1 @@
+Get-EventLog -ComputerName MyServer -List
